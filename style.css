@@ -679,4 +679,8 @@ footer a {
     html {
         font-size: 7px;
     }
+
+    .featured form input {
+        width: 30rem;
+    }
 }
